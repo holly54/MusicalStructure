@@ -1,0 +1,95 @@
+<resources>
+    <!--App title-->
+    <string name="app_name">Your Music Now!</string>
+
+    <!--Playlist One Title-->
+    <string name="playlist_one_title">Playlist 1: Driving Fun</string>
+
+    <!--Playlist Two Title-->
+    <string name="playlist_two_title">Playlist 2: Date Night</string>
+
+    <!--Playlist Three Title-->
+    <string name="playlist_three_title">Playlist 3: Happy Dancing</string>
+
+    <!--Name of first song on Playlist 1-->
+    <string name="playlist_one_song_one">1. Running\' 100</string>
+
+    <!--Name of first song's artist on Playlist 1-->
+    <string name="playlist_one_artist_one">By: Jimmy</string>
+
+    <!--Name of first song's album on Playlist 1-->
+    <string name="playlist_one_album_one">Album: 1975</string>
+
+    <!--Name of second song on Playlist 1-->
+    <string name="playlist_one_song_two">2. Move Outta My Way</string>
+
+    <!--Name of second song's artist on Playlist 1-->
+    <string name="playlist_one_artist_two">By: Sensey</string>
+
+    <!--Name of second song's album on Playlist 1-->
+    <string name="playlist_one_album_two">Album: We Gonna Go</string>
+
+    <!--Name of third song on Playlist 1-->
+    <string name="playlist_one_song_three">3. Earth Shake</string>
+
+    <!--Name of third song's artist on Playlist 1-->
+    <string name="playlist_one_artist_three">By: Dropping Duels</string>
+
+    <!--Name of third song's album on Playlist 1-->
+    <string name="playlist_one_album_three">Album: Since This is All I Know</string>
+
+    <!--Name of first song on Playlist 2-->
+    <string name="playlist_two_song_one">1. Will you walk with me?</string>
+
+    <!--Name of first song's artist on Playlist 2-->
+    <string name="playlist_two_artist_one">By: The Shaker Socks</string>
+
+    <!--Name of first song's album on Playlist 2-->
+    <string name="playlist_two_album_one">Album: Forty-Eight</string>
+
+    <!--Name of second song on Playlist 2-->
+    <string name="playlist_two_song_two">2. Forever and Ever</string>
+
+    <!--Name of second song's artist on Playlist 2-->
+    <string name="playlist_two_artist_two">By: Jiminy Jams</string>
+
+    <!--Name of second song's album on Playlist 2-->
+    <string name="playlist_two_album_two">Album: Always On My Mind</string>
+
+    <!--Name of third song on Playlist 2-->
+    <string name="playlist_two_song_three">3. Let\'s Talk Tomorrow</string>
+
+    <!--Name of third song's artist on Playlist 2-->
+    <string name="playlist_two_artist_three">By: Alice, Alice, and Ricky</string>
+
+    <!--Name of third song's album on Playlist 2-->
+    <string name="playlist_two_album_three">Album: Way to Go</string>
+
+    <!--Name of first song on Playlist 3-->
+    <string name="playlist_three_song_one">1. Sweet Sunrise</string>
+
+    <!--Name of first song's artist on Playlist 3-->
+    <string name="playlist_three_artist_one">By: May</string>
+
+    <!--Name of first song's album on Playlist 3-->
+    <string name="playlist_three_album_one">Album: 19 Seconds Ago</string>
+
+    <!--Name of second song on Playlist 3-->
+    <string name="playlist_three_song_two">2. Glittery Tears</string>
+
+    <!--Name of second song's artist on Playlist 3-->
+    <string name="playlist_three_artist_two">By: aMina</string>
+
+    <!--Name of second song's album on Playlist 3-->
+    <string name="playlist_three_album_two">Album: Leave it on the Dance Floor</string>
+
+    <!--Name of third song on Playlist 3-->
+    <string name="playlist_three_song_three">3. Boom Wa Zoom</string>
+
+    <!--Name of third song's artist on Playlist 3-->
+    <string name="playlist_three_artist_three">By: Goldilocks</string>
+
+    <!--Name of third song's album on Playlist 3-->
+    <string name="playlist_three_album_three">Album: Zeroes Everywhere</string>
+
+</resources>

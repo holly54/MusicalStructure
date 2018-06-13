@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--Background color for app-->
+    <color name="blue_background">#BBDEFB</color>
+    <!--Background color for driving playlist item-->
+    <color name="playlist_driving">#B388FF</color>
+    <!--Background color for date night playlist item-->
+    <color name="playlist_date">#F4FF81</color>
+    <!--Background color for happy dancing playlist item-->
+    <color name="playlist_happy">#A7FFEB</color>
+
+</resources>

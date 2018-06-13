@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue_background"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+        <TextView
+            android:id="@+id/drivingPlaylist"
+            style="@style/PlaylistStyle"
+            android:background="@color/playlist_driving"
+            android:text="@string/playlist_one_title" />
+
+        <TextView
+            android:id="@+id/dateNightPlaylist"
+            style="@style/PlaylistStyle"
+            android:background="@color/playlist_date"
+            android:text="@string/playlist_two_title" />
+
+        <TextView
+            android:id="@+id/happyDancingPlaylist"
+            style="@style/PlaylistStyle"
+            android:background="@color/playlist_happy"
+            android:text="@string/playlist_three_title" />
+
+</LinearLayout>
