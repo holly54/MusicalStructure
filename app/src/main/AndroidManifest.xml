@@ -18,15 +18,32 @@
         </activity>
         <activity
             android:name=".DrivingActivity"
-            android:label="@string/playlist_one_title" />
+            android:label="@string/playlist_one_title"
+            android:parentActivityName=".MainActivity">
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
         <activity
             android:name=".DateActivity"
-            android:label="@string/playlist_two_title" />
+            android:label="@string/playlist_two_title"
+            android:parentActivityName=".MainActivity">
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
         <activity
             android:name=".HappyActivity"
-            android:label="@string/playlist_three_title">
-
+            android:label="@string/playlist_three_title"
+            android:parentActivityName=".MainActivity">
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
         </activity>
+
     </application>
 
 </manifest>
