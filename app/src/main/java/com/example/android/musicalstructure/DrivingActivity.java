@@ -32,6 +32,19 @@ public class DrivingActivity extends AppCompatActivity {
         // Make the {@link ListView} use the {@link MusicAdapter} we created above, so that the
         // {@link ListView} will display list items for each {@link Music} in the list.
         listView.setAdapter(adapter);
+
+            // Find the View that shows the Home Button
+        TextView homeButton = findViewById(R.id.homeButton);
+
+        // Set a click listener on that View
+        homeButton.setOnClickListener(new View.OnClickListener() {
+            // The code in this method will be executed when the Home Button is clicked on.
+            @Override
+            public void onClick(View view) {
+                Intent homeButtonIntent = new Intent(DrivingActivity.this, MainActivity.class);
+                startActivity(homeButtonIntent);
+            }
+        });
     }
 }
 
